@@ -1,0 +1,270 @@
+{
+  "annotations": {
+    "UJ99_s4gp1": {
+      "end": 1698,
+      "start": 1032,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 1701,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "MEX",
+          "#17040D"
+        ],
+        [
+          "USA",
+          "#EC2B0C"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "color_map": [
+        [
+          "USA/Wisconsin",
+          "#ECB90C"
+        ],
+        [
+          "USA/Virginia",
+          "#E9EC0C"
+        ],
+        [
+          "USA/Vermont",
+          "#ACEC0C"
+        ],
+        [
+          "USA/Texas",
+          "#0CEC66"
+        ],
+        [
+          "USA/South-Dakota",
+          "#5F0CEC"
+        ],
+        [
+          "USA/Oregon",
+          "#8CA049"
+        ],
+        [
+          "USA/Oklahoma",
+          "#EC0C0C"
+        ],
+        [
+          "USA/Ohio",
+          "#C9E569"
+        ],
+        [
+          "USA/New-York",
+          "#0CECB2"
+        ],
+        [
+          "USA/Montana",
+          "#017F24"
+        ],
+        [
+          "USA/Minnesota",
+          "#D94807"
+        ],
+        [
+          "USA/Michigan",
+          "#76A0EC"
+        ],
+        [
+          "USA/Maryland",
+          "#771911"
+        ],
+        [
+          "USA/Kentucky",
+          "#11B98B"
+        ],
+        [
+          "USA/Illinois",
+          "#924740"
+        ],
+        [
+          "USA/Houston",
+          "#0CEC66"
+        ],
+        [
+          "USA/Hawaii",
+          "#2B1285"
+        ],
+        [
+          "USA/Florida",
+          "#9E10A5"
+        ],
+        [
+          "USA/Delaware",
+          "#BBE3B4"
+        ],
+        [
+          "USA/California",
+          "#CBC00E"
+        ],
+        [
+          "USA/Boston",
+          "#0ECB94"
+        ],
+        [
+          "USA/Arizona",
+          "#C1E5BB"
+        ],
+        [
+          "USA/Alaska",
+          "#E7B98A"
+        ],
+        [
+          "MEX/MEX",
+          "#5D1A39"
+        ]
+      ],
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "state",
+    "geoResolution": "state",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "state"
+  ],
+  "geo": {
+    "country": {
+      "MEX": {
+        "latitude": 19.4839446,
+        "longitude": -99.6899716
+      },
+      "USA": {
+        "latitude": 37.0902,
+        "longitude": -95.7129
+      }
+    },
+    "state": {
+      "USA/Alaska": {
+        "latitude": 64.2008,
+        "longitude": -149.4937
+      },
+      "USA/Arizona": {
+        "latitude": 34.0489,
+        "longitude": -111.0937
+      },
+      "USA/Boston": {
+        "latitude": 42.3601,
+        "longitude": -71.0589
+      },
+      "USA/California": {
+        "latitude": 36.7783,
+        "longitude": -119.4179
+      },
+      "USA/Delaware": {
+        "latitude": 38.9108,
+        "longitude": -75.5277
+      },
+      "USA/Florida": {
+        "latitude": 27.6648,
+        "longitude": -81.5158
+      },
+      "USA/Hawaii": {
+        "latitude": 19.8968,
+        "longitude": -155.5828
+      },
+      "USA/Houston": {
+        "latitude": 29.7604,
+        "longitude": -95.3698
+      },
+      "USA/Illinois": {
+        "latitude": 40.6331,
+        "longitude": -89.3985
+      },
+      "USA/Kentucky": {
+        "latitude": 37.8393,
+        "longitude": -84.27
+      },
+      "USA/Maryland": {
+        "latitude": 39.0458,
+        "longitude": -76.6413
+      },
+      "USA/Michigan": {
+        "latitude": 44.3148,
+        "longitude": -85.6024
+      },
+      "USA/Minnesota": {
+        "latitude": 49.7296,
+        "longitude": -94.6859
+      },
+      "USA/Montana": {
+        "latitude": 46.8797,
+        "longitude": -110.3636
+      },
+      "USA/New-York": {
+        "latitude": 40.7128,
+        "longitude": -74.006
+      },
+      "USA/Ohio": {
+        "latitude": 40.4173,
+        "longitude": -82.9071
+      },
+      "USA/Oklahoma": {
+        "latitude": 35.0078,
+        "longitude": -97.0929
+      },
+      "USA/Oregon": {
+        "latitude": 43.8041,
+        "longitude": -120.5542
+      },
+      "USA/South-Dakota": {
+        "latitude": 43.9695,
+        "longitude": -99.9018
+      },
+      "USA/Texas": {
+        "latitude": 31.9686,
+        "longitude": -99.9018
+      },
+      "USA/Vermont": {
+        "latitude": 44.5588,
+        "longitude": -72.5778
+      },
+      "USA/Virginia": {
+        "latitude": 37.4316,
+        "longitude": -78.6569
+      },
+      "USA/Wisconsin": {
+        "latitude": 43.7844,
+        "longitude": -88.7879
+      }
+    }
+  },
+  "maintainer": [
+    "Taylor E.",
+    "Add your github link repository here"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "The 2009 H1N1 Pandemic",
+  "updated": "28 Feb 2020",
+  "virus_count": 56
+}
