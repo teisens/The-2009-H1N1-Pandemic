@@ -1,0 +1,25 @@
+{
+  "title": "The 2009 H1N1 Pandemic",
+  "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
+    "country": {"legendTitle":"Country", "type":"discrete"},
+    "state": {"legendTitle":"State", "menuItem":"state", "type":"discrete"}
+  },
+  "geo": [
+    "country",
+    "state"
+  ],
+  "maintainer": [
+    "Taylor E.",
+    "Add your github link repository here"
+  ],
+  "filters": [
+    "country",
+    "state"
+  ],
+  "defaults": {
+   "colorBy": "state",
+   "mapTriplicate": false,
+   "geoResolution": "state"
+ }
+}
