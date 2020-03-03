@@ -1,0 +1,3994 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "USA",
+    "country_confidence": {
+      "MEX": 0.28609728139344576,
+      "USA": 0.7139027186065542
+    },
+    "country_entropy": 0.5986201646907453,
+    "date": "1955-06-28",
+    "div": 0,
+    "num_date": 1955.4912815374964,
+    "num_date_confidence": [
+      1670.6561097211047,
+      1991.8527016056262
+    ],
+    "state": "USA/Delaware",
+    "state_confidence": {
+      "USA/California": 0.044588687938460825,
+      "USA/Delaware": 0.04879612714255183,
+      "USA/Montana": 0.04249700288131426,
+      "USA/Virginia": 0.042477698703099344
+    },
+    "state_entropy": 3.1769537566998975
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {
+        "UJ99_s4gp1": [
+          "V18I",
+          "I91V",
+          "K116R",
+          "K121R",
+          "K127R",
+          "I133L"
+        ]
+      },
+      "attr": {
+        "accession": "CY043904",
+        "clock_length": 0.15742543178806437,
+        "country": "USA",
+        "country_confidence": {
+          "USA": 1.0
+        },
+        "country_entropy": -1.000088900581841e-12,
+        "date": "2006-05-21",
+        "div": 0.16087060841078188,
+        "num_date": 2006.3887748117727,
+        "num_date_confidence": [
+          2006.3887748117727,
+          2006.3887748117727
+        ],
+        "raw_date": "2006-05-22",
+        "state": "USA/Delaware",
+        "state_confidence": {
+          "USA/Delaware": 1.0
+        },
+        "state_entropy": -1.000088900581841e-12
+      },
+      "branch_length": 0.15742543,
+      "clade": 0,
+      "muts": [
+        "A4G",
+        "A15G",
+        "C16T",
+        "A18T",
+        "T21A",
+        "G24A",
+        "A27C",
+        "T36C",
+        "A39T",
+        "C41T",
+        "T42A",
+        "A43C",
+        "C44T",
+        "A45G",
+        "T48A",
+        "A51T",
+        "A57C",
+        "A60C",
+        "A64G",
+        "A66G",
+        "A87T",
+        "A111G",
+        "T120C",
+        "A126T",
+        "A132T",
+        "T138A",
+        "T141G",
+        "C144T",
+        "C145T",
+        "T150C",
+        "T159C",
+        "A171G",
+        "A174C",
+        "A179G",
+        "A180C",
+        "A183G",
+        "A186T",
+        "C195T",
+        "A198T",
+        "T210G",
+        "A213G",
+        "C219T",
+        "T222G",
+        "T225G",
+        "A232C",
+        "C234T",
+        "A240C",
+        "A255T",
+        "T256C",
+        "A258T",
+        "C267T",
+        "C285T",
+        "T288A",
+        "G289A",
+        "A294G",
+        "A297G",
+        "T312C",
+        "A315G",
+        "T321C",
+        "C324T",
+        "A327C",
+        "A330T",
+        "T333G",
+        "C339A",
+        "G351A",
+        "C352T",
+        "A375T",
+        "A381T",
+        "G389A",
+        "A399T",
+        "G413A",
+        "C423A",
+        "C432G",
+        "A447T",
+        "A453T",
+        "A456T",
+        "C463T",
+        "T465C",
+        "A466T",
+        "C467T",
+        "T468G",
+        "A474C",
+        "C486T",
+        "A487C",
+        "A498G",
+        "C502A",
+        "A516G",
+        "A518C",
+        "C543A",
+        "A549G",
+        "A558G",
+        "G561A",
+        "C570G",
+        "A579C",
+        "T585A",
+        "T588G",
+        "A597T",
+        "T600G",
+        "T605C",
+        "G607A",
+        "C612A",
+        "C624A",
+        "T627C",
+        "G634A",
+        "A636T",
+        "T645C",
+        "T651A",
+        "A654T",
+        "A666G",
+        "G671A",
+        "A673C",
+        "A690G",
+        "A697G",
+        "A699T",
+        "G711T",
+        "A716G",
+        "T717G",
+        "A722C",
+        "A726C",
+        "A729G",
+        "C741T",
+        "C751T",
+        "A756C",
+        "C758A",
+        "A768C",
+        "A783C",
+        "A789G",
+        "A795G",
+        "A805T",
+        "T810C",
+        "T813C",
+        "G822A",
+        "T825C",
+        "G827A",
+        "A828G",
+        "T831G",
+        "T834A",
+        "G836A",
+        "A837C",
+        "C849A",
+        "C852A",
+        "A861C",
+        "G871A",
+        "T879C",
+        "A884G",
+        "T888C",
+        "A894C",
+        "C898T",
+        "G900C",
+        "A903G",
+        "T906G",
+        "A907T",
+        "A909G",
+        "C915T",
+        "A936G",
+        "A942T",
+        "A948T",
+        "A963C",
+        "A981C",
+        "A984G",
+        "T985C",
+        "A990G",
+        "T996A",
+        "G1008A",
+        "T1035A",
+        "C1047A",
+        "T1056A",
+        "G1068A",
+        "A1080C",
+        "G1084A",
+        "T1092C",
+        "T1101G",
+        "T1104C",
+        "T1110C",
+        "T1137C",
+        "C1140T",
+        "C1164A",
+        "C1170T",
+        "G1173A",
+        "T1176A",
+        "C1182T",
+        "T1194G",
+        "A1224T",
+        "G1251A",
+        "A1254G",
+        "A1257G",
+        "A1263T",
+        "T1270C",
+        "A1272G",
+        "A1278G",
+        "A1281G",
+        "T1284C",
+        "C1302T",
+        "A1303G",
+        "C1320T",
+        "T1327C",
+        "G1329C",
+        "A1341G",
+        "T1354C",
+        "G1356T",
+        "C1362T",
+        "A1379G",
+        "A1394G",
+        "A1398C",
+        "A1402T",
+        "G1403C",
+        "C1404A",
+        "G1407A",
+        "A1410G",
+        "A1412G",
+        "T1419C",
+        "A1429C",
+        "C1437T",
+        "T1446C",
+        "A1449G",
+        "A1491G",
+        "T1494C",
+        "A1497C",
+        "T1500A",
+        "A1512C",
+        "A1527G",
+        "A1530T",
+        "C1539T",
+        "A1540C",
+        "T1554C",
+        "G1566A",
+        "A1569G",
+        "A1572G",
+        "G1587A",
+        "A1605C",
+        "T1626C",
+        "C1627T",
+        "T1677A",
+        "G1683A",
+        "T1686C",
+        "A1701G"
+      ],
+      "strain": "CY043904",
+      "yvalue": 56
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.01226891914894418,
+        "country": "USA",
+        "country_confidence": {
+          "MEX": 0.284908412511307,
+          "USA": 0.715091587488693
+        },
+        "country_entropy": 0.5975295824296675,
+        "date": "1959-06-16",
+        "div": 0.012417551589218116,
+        "num_date": 1959.45796736947,
+        "num_date_confidence": [
+          1695.6152820219982,
+          1993.0019204540552
+        ],
+        "state": "USA/Delaware",
+        "state_confidence": {
+          "USA/California": 0.04461361308703099,
+          "USA/Delaware": 0.04872316485975374,
+          "USA/Montana": 0.042485494404325606,
+          "USA/Virginia": 0.04246857874964312
+        },
+        "state_entropy": 3.17696299985594
+      },
+      "branch_length": 0.01226892,
+      "children": [
+        {
+          "aa_muts": {
+            "UJ99_s4gp1": [
+              "D46N",
+              "N72K",
+              "I77M",
+              "R123K",
+              "D145N",
+              "E172K"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.13099916300376832,
+            "country": "USA",
+            "country_confidence": {
+              "MEX": 0.03368970350412353,
+              "USA": 0.9663102964958765
+            },
+            "country_entropy": 0.14734278585632132,
+            "date": "2001-10-23",
+            "div": 0.14863255158921812,
+            "num_date": 2001.811537197351,
+            "num_date_confidence": [
+              1970.3364246776107,
+              2005.3052890033089
+            ],
+            "state": "USA/Kentucky",
+            "state_confidence": {
+              "USA/Alaska": 0.1684487347241271,
+              "USA/Boston": 0.08347779889067504,
+              "USA/Kentucky": 0.20073204382484647,
+              "USA/Michigan": 0.1971257525659269
+            },
+            "state_entropy": 2.559492516768358
+          },
+          "branch_length": 0.13099916,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.011166635331415452,
+                "country": "USA",
+                "country_confidence": {
+                  "MEX": 0.0025327481775213496,
+                  "USA": 0.9974672518224788
+                },
+                "country_entropy": 0.017671447234256336,
+                "date": "2005-06-03",
+                "div": 0.16106055158921811,
+                "num_date": 2005.4218417092814,
+                "num_date_confidence": [
+                  1998.889331677728,
+                  2006.6197887189717
+                ],
+                "state": "USA/Kentucky",
+                "state_confidence": {
+                  "USA/Alaska": 0.021761842049120184,
+                  "USA/Boston": 0.011438343253551584,
+                  "USA/Kentucky": 0.4449568213679712,
+                  "USA/Michigan": 0.4362455776946055
+                },
+                "state_entropy": 1.3214930222148498
+              },
+              "branch_length": 0.01116664,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "CY025229",
+                    "clock_length": 0.004769024709180419,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2006-12-18",
+                    "div": 0.1656250115892181,
+                    "num_date": 2006.9637234770705,
+                    "num_date_confidence": [
+                      2006.9637234770705,
+                      2006.9637234770705
+                    ],
+                    "raw_date": "2006-12-18",
+                    "state": "USA/Kentucky",
+                    "state_confidence": {
+                      "USA/Kentucky": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 0.00476902,
+                  "clade": 1,
+                  "muts": [
+                    "G19A",
+                    "A258G",
+                    "A294G",
+                    "G357A",
+                    "G885A",
+                    "G979A",
+                    "G1038A",
+                    "C1591T"
+                  ],
+                  "strain": "CY025229",
+                  "yvalue": 55
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "CY025221",
+                    "clock_length": 0.00485370615704938,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2006-12-28",
+                    "div": 0.1665548815892181,
+                    "num_date": 2006.991101984942,
+                    "num_date_confidence": [
+                      2006.991101984942,
+                      2006.991101984942
+                    ],
+                    "raw_date": "2006-12-28",
+                    "state": "USA/Michigan",
+                    "state_confidence": {
+                      "USA/Michigan": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 0.00485371,
+                  "clade": 2,
+                  "muts": [
+                    "G18T",
+                    "G330A",
+                    "A467G",
+                    "T753G",
+                    "A869G",
+                    "C915T",
+                    "C939T",
+                    "A954G",
+                    "A1281G"
+                  ],
+                  "strain": "CY025221",
+                  "yvalue": 54
+                }
+              ],
+              "clade": 3,
+              "muts": [
+                "A114G",
+                "A411G",
+                "T468C",
+                "G472A",
+                "C525T",
+                "A579G",
+                "T609G",
+                "A617G",
+                "A708G",
+                "A809T",
+                "A1227T",
+                "T1317C",
+                "C1324T",
+                "T1374C",
+                "G1407A"
+              ],
+              "strain": "NODE_0000014",
+              "yvalue": 54.5
+            },
+            {
+              "aa_muts": {
+                "UJ99_s4gp1": [
+                  "L89I"
+                ]
+              },
+              "attr": {
+                "clock_length": 0.01609504503115801,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 0.999385042511764
+                },
+                "country_entropy": 0.005161737842615319,
+                "date": "2007-01-05",
+                "div": 0.16742255158921812,
+                "num_date": 2007.015254518739,
+                "num_date_confidence": [
+                  2000.8270891429552,
+                  2007.9737809408623
+                ],
+                "state": "USA/Alaska",
+                "state_confidence": {
+                  "USA/Alaska": 0.5859455124611992,
+                  "USA/Boston": 0.25912839928596254,
+                  "USA/Florida": 0.03081091204967202,
+                  "USA/New-York": 0.024668851879295062
+                },
+                "state_entropy": 1.3282186777940588
+              },
+              "branch_length": 0.01609505,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "EU716555",
+                    "clock_length": 0.003198234417433811,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2008-01-18",
+                    "div": 0.17045751158921812,
+                    "num_date": 2008.0492813141684,
+                    "num_date_confidence": [
+                      2008.0492813141684,
+                      2008.0492813141684
+                    ],
+                    "raw_date": "2008-01-18",
+                    "state": "USA/Alaska",
+                    "state_confidence": {
+                      "USA/Alaska": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 0.00319823,
+                  "clade": 4,
+                  "muts": [
+                    "A611T",
+                    "G760A",
+                    "T1275C",
+                    "G1587A",
+                    "A1689G"
+                  ],
+                  "strain": "EU716555",
+                  "yvalue": 53
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0016393194702618435,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 0.9999734016613966
+                    },
+                    "country_entropy": 0.0003068024845623544,
+                    "date": "2007-07-18",
+                    "div": 0.16911655158921812,
+                    "num_date": 2007.5452657803526,
+                    "num_date_confidence": [
+                      2002.7544193328285,
+                      2008.7471632250015
+                    ],
+                    "state": "USA/Boston",
+                    "state_confidence": {
+                      "USA/Alaska": 0.39398020522852,
+                      "USA/Boston": 0.41165222082223357,
+                      "USA/Florida": 0.04804730067037067,
+                      "USA/New-York": 0.0381927595919942
+                    },
+                    "state_entropy": 1.44229530020537
+                  },
+                  "branch_length": 0.00163932,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0014468149997710622,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 0.9999946361645481
+                        },
+                        "country_entropy": 7.045842106805058e-05,
+                        "date": "2008-01-04",
+                        "div": 0.17029555158921814,
+                        "num_date": 2008.0130380829821,
+                        "num_date_confidence": [
+                          2004.1513624627357,
+                          2008.828272976255
+                        ],
+                        "state": "USA/Florida",
+                        "state_confidence": {
+                          "USA/Boston": 0.17218045579217475,
+                          "USA/Florida": 0.2113955528225127,
+                          "USA/Minnesota": 0.16827619587859657,
+                          "USA/New-York": 0.16752596943668283
+                        },
+                        "state_entropy": 1.9480837684983139
+                      },
+                      "branch_length": 0.00144681,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "CY050764",
+                            "clock_length": 0.004060372454281168,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-28",
+                            "div": 0.17324695158921813,
+                            "num_date": 2009.3258042436687,
+                            "num_date_confidence": [
+                              2009.3258042436687,
+                              2009.3258042436687
+                            ],
+                            "raw_date": "2009-04-29",
+                            "state": "USA/New-York",
+                            "state_confidence": {
+                              "USA/New-York": 0.9999999999999999
+                            },
+                            "state_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 0.00406037,
+                          "clade": 5,
+                          "muts": [
+                            "A381G",
+                            "A637G",
+                            "A869G",
+                            "A894T",
+                            "C927T"
+                          ],
+                          "strain": "CY050764",
+                          "yvalue": 52
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ476071",
+                            "clock_length": 0.0033659845817575057,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-02-06",
+                            "div": 0.17383787158921812,
+                            "num_date": 2009.101300479124,
+                            "num_date_confidence": [
+                              2009.101300479124,
+                              2009.101300479124
+                            ],
+                            "raw_date": "2009-02-06",
+                            "state": "USA/Florida",
+                            "state_confidence": {
+                              "USA/Florida": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00336598,
+                          "clade": 6,
+                          "muts": [
+                            "C41T",
+                            "T468C",
+                            "G508A",
+                            "C759T",
+                            "T1215C",
+                            "C1476T"
+                          ],
+                          "strain": "GQ476071",
+                          "yvalue": 51
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0021294658553316498,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 0.9999765811838113
+                            },
+                            "country_entropy": 0.000273109273125948,
+                            "date": "2008-09-13",
+                            "div": 0.17324755158921815,
+                            "num_date": 2008.701519434556,
+                            "num_date_confidence": [
+                              2007.9318369980556,
+                              2008.979699247872
+                            ],
+                            "state": "USA/Minnesota",
+                            "state_confidence": {
+                              "USA/Boston": 0.03379884698818959,
+                              "USA/Florida": 0.04285059946548944,
+                              "USA/Minnesota": 0.562252637783578,
+                              "USA/Virginia": 0.27646068214173336
+                            },
+                            "state_entropy": 1.2812405602941306
+                          },
+                          "branch_length": 0.00212947,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ475996",
+                                "clock_length": 0.0010586876859012481,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-01-15",
+                                "div": 0.17501835158921814,
+                                "num_date": 2009.043805612594,
+                                "num_date_confidence": [
+                                  2009.043805612594,
+                                  2009.043805612594
+                                ],
+                                "raw_date": "2009-01-16",
+                                "state": "USA/Minnesota",
+                                "state_confidence": {
+                                  "USA/Minnesota": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.00105869,
+                              "clade": 7,
+                              "muts": [
+                                "G447A",
+                                "C1324T",
+                                "C1698T"
+                              ],
+                              "strain": "GQ475996",
+                              "yvalue": 50
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ476008",
+                                "clock_length": 0.001981715467671036,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-05-05",
+                                "div": 0.17560977158921814,
+                                "num_date": 2009.3422313483916,
+                                "num_date_confidence": [
+                                  2009.3422313483916,
+                                  2009.3422313483916
+                                ],
+                                "raw_date": "2009-05-05",
+                                "state": "USA/Virginia",
+                                "state_confidence": {
+                                  "USA/Virginia": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.00198172,
+                              "clade": 8,
+                              "muts": [
+                                "G608A",
+                                "C759T",
+                                "G1185A",
+                                "C1333T"
+                              ],
+                              "strain": "GQ476008",
+                              "yvalue": 49
+                            }
+                          ],
+                          "clade": 9,
+                          "muts": [
+                            "G610A",
+                            "C612T",
+                            "A691G",
+                            "T1089C",
+                            "A1700G"
+                          ],
+                          "strain": "NODE_0000000",
+                          "yvalue": 49.5
+                        }
+                      ],
+                      "clade": 10,
+                      "muts": [
+                        "A602G",
+                        "G607A"
+                      ],
+                      "strain": "NODE_0000002",
+                      "yvalue": 50.75
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0009593255463955855,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 0.9999828433194509
+                        },
+                        "country_entropy": 0.00020541889600348751,
+                        "date": "2007-11-08",
+                        "div": 0.16970655158921813,
+                        "num_date": 2007.8554270102816,
+                        "num_date_confidence": [
+                          2003.5060375350272,
+                          2008.8606200162524
+                        ],
+                        "state": "USA/Boston",
+                        "state_confidence": {
+                          "USA/Alaska": 0.30945612677447093,
+                          "USA/Boston": 0.6205460682544818,
+                          "USA/California": 0.0497099202218357,
+                          "USA/Florida": 0.003392464322296212
+                        },
+                        "state_entropy": 0.9326266572665489
+                      },
+                      "branch_length": 0.00095933,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.002615020913375614,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 0.9999602143940713
+                            },
+                            "country_entropy": 0.00044289278543560296,
+                            "date": "2008-09-13",
+                            "div": 0.17147455158921812,
+                            "num_date": 2008.7008940217986,
+                            "num_date_confidence": [
+                              2004.6844082115258,
+                              2009.0172623585268
+                            ],
+                            "state": "USA/Boston",
+                            "state_confidence": {
+                              "MEX/MEX": 0.0011946359933359906,
+                              "USA/Alaska": 0.06861349235619049,
+                              "USA/Boston": 0.7648445850467053,
+                              "USA/California": 0.15674312530826046
+                            },
+                            "state_entropy": 0.7528907050519539
+                          },
+                          "branch_length": 0.00261502,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY080913",
+                                "clock_length": 0.0015094337549376308,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-03-10",
+                                "div": 0.17384089158921812,
+                                "num_date": 2009.1889117043122,
+                                "num_date_confidence": [
+                                  2009.1889117043122,
+                                  2009.1889117043122
+                                ],
+                                "raw_date": "2009-03-10",
+                                "state": "USA/Boston",
+                                "state_confidence": {
+                                  "USA/Boston": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.00150943,
+                              "clade": 11,
+                              "muts": [
+                                "C462A",
+                                "T669C",
+                                "A1021G",
+                                "G1119A"
+                              ],
+                              "strain": "CY080913",
+                              "yvalue": 48
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY074083",
+                                "clock_length": 0.0019243728494943504,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2009-04-28",
+                                "div": 0.17561651158921812,
+                                "num_date": 2009.3230663928816,
+                                "num_date_confidence": [
+                                  2009.3230663928816,
+                                  2009.3230663928816
+                                ],
+                                "raw_date": "2009-04-28",
+                                "state": "USA/California",
+                                "state_confidence": {
+                                  "USA/California": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.00192437,
+                              "clade": 12,
+                              "muts": [
+                                "T34C",
+                                "A258G",
+                                "A410G",
+                                "G1293A",
+                                "C1333T",
+                                "G1461A",
+                                "T1629C"
+                              ],
+                              "strain": "CY074083",
+                              "yvalue": 47
+                            }
+                          ],
+                          "clade": 13,
+                          "muts": [
+                            "G476A",
+                            "T608C",
+                            "G900A"
+                          ],
+                          "strain": "NODE_0000005",
+                          "yvalue": 47.5
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0006443743832648466,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 0.999974949667323
+                            },
+                            "country_entropy": 0.0002904488589258142,
+                            "date": "2008-01-23",
+                            "div": 0.16970655158921813,
+                            "num_date": 2008.0637608256368,
+                            "num_date_confidence": [
+                              2003.512717629365,
+                              2008.8709858838195
+                            ],
+                            "state": "USA/Boston",
+                            "state_confidence": {
+                              "USA/Alaska": 0.3098008404349084,
+                              "USA/Arizona": 0.005349666801782702,
+                              "USA/Boston": 0.621931896269307,
+                              "USA/California": 0.046795449753780645
+                            },
+                            "state_entropy": 0.9281690640031828
+                          },
+                          "branch_length": 0.00064437,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY080610",
+                                "clock_length": 0.003666379470359693,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-04-01",
+                                "div": 0.17384418158921813,
+                                "num_date": 2009.2491444216291,
+                                "num_date_confidence": [
+                                  2009.2491444216291,
+                                  2009.2491444216291
+                                ],
+                                "raw_date": "2009-04-01",
+                                "state": "USA/Boston",
+                                "state_confidence": {
+                                  "USA/Boston": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.00366638,
+                              "clade": 14,
+                              "muts": [
+                                "C178T",
+                                "G509T",
+                                "C532T",
+                                "G827A",
+                                "A899G",
+                                "G1068T",
+                                "T1500C"
+                              ],
+                              "strain": "CY080610",
+                              "yvalue": 46
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0011531720815332464,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 0.9999773638504322
+                                },
+                                "country_entropy": 0.0002647512958262012,
+                                "date": "2008-06-08",
+                                "div": 0.17029655158921814,
+                                "num_date": 2008.4365949198316,
+                                "num_date_confidence": [
+                                  2004.343240134188,
+                                  2008.855686003996
+                                ],
+                                "state": "USA/Alaska",
+                                "state_confidence": {
+                                  "USA/Alaska": 0.4355241115270822,
+                                  "USA/Arizona": 0.08927553623434349,
+                                  "USA/Boston": 0.262660576809813,
+                                  "USA/Ohio": 0.08533020401754023
+                                },
+                                "state_entropy": 1.5683572511514865
+                              },
+                              "branch_length": 0.00115317,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0008409009283528168,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 0.9999933929866947
+                                    },
+                                    "country_entropy": 8.54113402462974e-05,
+                                    "date": "2008-09-15",
+                                    "div": 0.17088355158921814,
+                                    "num_date": 2008.7084680781836,
+                                    "num_date_confidence": [
+                                      2005.088678437688,
+                                      2008.8666698054724
+                                    ],
+                                    "state": "USA/Arizona",
+                                    "state_confidence": {
+                                      "USA/Alaska": 0.1345112861474387,
+                                      "USA/Arizona": 0.38892867065117537,
+                                      "USA/Boston": 0.08002544266555157,
+                                      "USA/Ohio": 0.3486352732944511
+                                    },
+                                    "state_entropy": 1.4427711043053537
+                                  },
+                                  "branch_length": 0.0008409,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "GQ475930",
+                                        "clock_length": 0.0011388133389005003,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2009-01-28",
+                                        "div": 0.17265390158921815,
+                                        "num_date": 2009.0766598220398,
+                                        "num_date_confidence": [
+                                          2009.0766598220398,
+                                          2009.0766598220398
+                                        ],
+                                        "raw_date": "2009-01-28",
+                                        "state": "USA/Ohio",
+                                        "state_confidence": {
+                                          "USA/Ohio": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00113881,
+                                      "clade": 15,
+                                      "muts": [
+                                        "A51G",
+                                        "G228A",
+                                        "C1668T"
+                                      ],
+                                      "strain": "GQ475930",
+                                      "yvalue": 45
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "FJ686949",
+                                        "clock_length": 0.0005269898780487781,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 0.9999999999999999
+                                        },
+                                        "country_entropy": -9.99866855976916e-13,
+                                        "date": "2008-11-17",
+                                        "div": 0.17206353158921814,
+                                        "num_date": 2008.8788501026695,
+                                        "num_date_confidence": [
+                                          2008.8788501026695,
+                                          2008.8788501026695
+                                        ],
+                                        "raw_date": "2008-11-16",
+                                        "state": "USA/Arizona",
+                                        "state_confidence": {
+                                          "USA/Arizona": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00052699,
+                                      "clade": 16,
+                                      "muts": [
+                                        "T210C",
+                                        "A302G"
+                                      ],
+                                      "strain": "FJ686949",
+                                      "yvalue": 44
+                                    }
+                                  ],
+                                  "clade": 17,
+                                  "muts": [
+                                    "G610A"
+                                  ],
+                                  "strain": "NODE_0000008",
+                                  "yvalue": 44.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0008761844257503121,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 0.9994443946790081
+                                    },
+                                    "country_entropy": 0.004719964161836795,
+                                    "date": "2008-09-19",
+                                    "div": 0.17088555158921814,
+                                    "num_date": 2008.7198756477935,
+                                    "num_date_confidence": [
+                                      2007.9548464264665,
+                                      2008.9445585215606
+                                    ],
+                                    "state": "USA/Alaska",
+                                    "state_confidence": {
+                                      "MEX/MEX": 0.10416547568808425,
+                                      "USA/Alaska": 0.6137365166435499,
+                                      "USA/Boston": 0.09829222374165371,
+                                      "USA/California": 0.09742211326934563
+                                    },
+                                    "state_entropy": 1.3390126193449992
+                                  },
+                                  "branch_length": 0.00087618,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "FJ687001",
+                                        "clock_length": 0.0006949418555359452,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2008-12-11",
+                                        "div": 0.17088844158921815,
+                                        "num_date": 2008.9445585215606,
+                                        "num_date_confidence": [
+                                          2008.9445585215606,
+                                          2008.9445585215606
+                                        ],
+                                        "raw_date": "2008-12-10",
+                                        "state": "USA/Alaska",
+                                        "state_confidence": {
+                                          "USA/Alaska": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00069494,
+                                      "clade": 18,
+                                      "muts": [],
+                                      "strain": "FJ687001",
+                                      "yvalue": 43
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.000663565229652989,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "MEX": 0.0236579082366689,
+                                          "USA": 0.9763420917633311
+                                        },
+                                        "country_entropy": 0.11195240322719065,
+                                        "date": "2008-12-07",
+                                        "div": 0.17206455158921816,
+                                        "num_date": 2008.9344140894525,
+                                        "num_date_confidence": [
+                                          2008.483155912309,
+                                          2009.0682184632453
+                                        ],
+                                        "state": "MEX/MEX",
+                                        "state_confidence": {
+                                          "MEX/MEX": 0.42541595807495564,
+                                          "USA/Alaska": 0.18705679309790998,
+                                          "USA/California": 0.24334807157690255,
+                                          "USA/Hawaii": 0.0869117785303713
+                                        },
+                                        "state_entropy": 1.4978908989522695
+                                      },
+                                      "branch_length": 0.00066357,
+                                      "children": [
+                                        {
+                                          "aa_muts": {
+                                            "UJ99_s4gp1": [
+                                              "M181I"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "accession": "CY147587",
+                                            "clock_length": 0.0005161779149315884,
+                                            "country": "MEX",
+                                            "country_confidence": {
+                                              "MEX": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2009-02-06",
+                                            "div": 0.17383265158921815,
+                                            "num_date": 2009.101300479124,
+                                            "num_date_confidence": [
+                                              2009.101300479124,
+                                              2009.101300479124
+                                            ],
+                                            "raw_date": "2009-02-06",
+                                            "state": "MEX/MEX",
+                                            "state_confidence": {
+                                              "MEX/MEX": 0.9999999999999999
+                                            },
+                                            "state_entropy": -9.99866855976916e-13
+                                          },
+                                          "branch_length": 0.00051618,
+                                          "clade": 19,
+                                          "muts": [
+                                            "T717C",
+                                            "G760A",
+                                            "G1575A"
+                                          ],
+                                          "strain": "CY147587",
+                                          "yvalue": 42
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0002365306987220997,
+                                            "country": "USA",
+                                            "country_confidence": {
+                                              "USA": 0.9994599306642451
+                                            },
+                                            "country_entropy": 0.004603304173942047,
+                                            "date": "2009-01-03",
+                                            "div": 0.17206455158921816,
+                                            "num_date": 2009.0108872457313,
+                                            "num_date_confidence": [
+                                              2008.4778861868378,
+                                              2009.2370138927463
+                                            ],
+                                            "state": "USA/California",
+                                            "state_confidence": {
+                                              "MEX/MEX": 0.1458697379021416,
+                                              "USA/Alaska": 0.05694873288727061,
+                                              "USA/California": 0.5104670021697844,
+                                              "USA/Hawaii": 0.26341618618695545
+                                            },
+                                            "state_entropy": 1.2789196258110902
+                                          },
+                                          "branch_length": 0.00023653,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "CY074643",
+                                                "clock_length": 0.0009486306543723955,
+                                                "country": "USA",
+                                                "country_confidence": {
+                                                  "USA": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2009-04-25",
+                                                "div": 0.17265347158921815,
+                                                "num_date": 2009.3175906913073,
+                                                "num_date_confidence": [
+                                                  2009.3175906913073,
+                                                  2009.3175906913073
+                                                ],
+                                                "raw_date": "2009-04-26",
+                                                "state": "USA/California",
+                                                "state_confidence": {
+                                                  "USA/California": 0.9999999999999999
+                                                },
+                                                "state_entropy": -9.99866855976916e-13
+                                              },
+                                              "branch_length": 0.00094863,
+                                              "clade": 20,
+                                              "muts": [
+                                                "A297G"
+                                              ],
+                                              "strain": "CY074643",
+                                              "yvalue": 41
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "GQ476034",
+                                                "clock_length": 0.000863949206504136,
+                                                "country": "USA",
+                                                "country_confidence": {
+                                                  "USA": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2009-04-16",
+                                                "div": 0.17324443158921815,
+                                                "num_date": 2009.290212183436,
+                                                "num_date_confidence": [
+                                                  2009.290212183436,
+                                                  2009.290212183436
+                                                ],
+                                                "raw_date": "2009-04-16",
+                                                "state": "USA/Hawaii",
+                                                "state_confidence": {
+                                                  "USA/Hawaii": 1.0
+                                                },
+                                                "state_entropy": -1.000088900581841e-12
+                                              },
+                                              "branch_length": 0.00086395,
+                                              "clade": 21,
+                                              "muts": [
+                                                "T34A",
+                                                "A1512T"
+                                              ],
+                                              "strain": "GQ476034",
+                                              "yvalue": 40
+                                            }
+                                          ],
+                                          "clade": 22,
+                                          "muts": [],
+                                          "strain": "NODE_0000017",
+                                          "yvalue": 40.5
+                                        }
+                                      ],
+                                      "clade": 23,
+                                      "muts": [
+                                        "T627C",
+                                        "A869G"
+                                      ],
+                                      "strain": "NODE_0000010",
+                                      "yvalue": 41.25
+                                    }
+                                  ],
+                                  "clade": 24,
+                                  "muts": [
+                                    "G270A"
+                                  ],
+                                  "strain": "NODE_0000009",
+                                  "yvalue": 42.125
+                                }
+                              ],
+                              "clade": 25,
+                              "muts": [
+                                "A629G"
+                              ],
+                              "strain": "NODE_0000007",
+                              "yvalue": 43.3125
+                            }
+                          ],
+                          "clade": 26,
+                          "muts": [],
+                          "strain": "NODE_0000011",
+                          "yvalue": 44.65625
+                        }
+                      ],
+                      "clade": 27,
+                      "muts": [
+                        "G608T"
+                      ],
+                      "strain": "NODE_0000004",
+                      "yvalue": 46.078125
+                    }
+                  ],
+                  "clade": 28,
+                  "muts": [
+                    "T213C",
+                    "G619A",
+                    "T933C"
+                  ],
+                  "strain": "NODE_0000003",
+                  "yvalue": 48.4140625
+                }
+              ],
+              "clade": 29,
+              "muts": [
+                "T21C",
+                "T30C",
+                "C78T",
+                "A147G",
+                "G154A",
+                "C181T",
+                "A228G",
+                "A273G",
+                "C296A",
+                "T331C",
+                "C339T",
+                "G351A",
+                "A447G",
+                "G561A",
+                "T600A",
+                "C648T",
+                "G677A",
+                "G711A",
+                "G720A",
+                "G807A",
+                "C851A",
+                "G871A",
+                "T888C",
+                "A990G",
+                "C1107T",
+                "G1131C",
+                "C1170T",
+                "A1272G",
+                "C1297A",
+                "C1359T",
+                "C1422T",
+                "C1437T",
+                "G1488A",
+                "A1491G",
+                "G1536A",
+                "C1620T"
+              ],
+              "strain": "NODE_0000012",
+              "yvalue": 50.70703125
+            }
+          ],
+          "clade": 30,
+          "muts": [
+            "C8T",
+            "A18G",
+            "A46T",
+            "A78C",
+            "A87G",
+            "A90C",
+            "A111T",
+            "T141C",
+            "A153G",
+            "T162C",
+            "G168A",
+            "C177T",
+            "A178C",
+            "A179T",
+            "G189A",
+            "T199C",
+            "A213T",
+            "T216C",
+            "A218G",
+            "T225C",
+            "C235T",
+            "G237A",
+            "G249A",
+            "T252C",
+            "A261G",
+            "C262A",
+            "C264T",
+            "A265T",
+            "G268A",
+            "C269A",
+            "A270G",
+            "A271G",
+            "C273A",
+            "T298C",
+            "C300A",
+            "T304C",
+            "A306T",
+            "A330G",
+            "G331T",
+            "A337G",
+            "T338C",
+            "T342C",
+            "A354G",
+            "A387G",
+            "T393C",
+            "G408A",
+            "C410A",
+            "T429C",
+            "G430A",
+            "A431C",
+            "A433G",
+            "C434T",
+            "A439G",
+            "A440G",
+            "A448T",
+            "G454T",
+            "C460T",
+            "C467A",
+            "C473A",
+            "A504G",
+            "A507G",
+            "A508G",
+            "A509G",
+            "G514A",
+            "G515A",
+            "A516T",
+            "A517G",
+            "A518G",
+            "C521T",
+            "A522G",
+            "A531C",
+            "C534G",
+            "A540G",
+            "C546T",
+            "A547G",
+            "T555C",
+            "G560A",
+            "G576A",
+            "C591T",
+            "T594C",
+            "A597G",
+            "C602A",
+            "C606A",
+            "C616A",
+            "A618G",
+            "A619G",
+            "G620C",
+            "T621C",
+            "G630T",
+            "A632C",
+            "C633A",
+            "C635A",
+            "G637A",
+            "A642T",
+            "G656T",
+            "A660T",
+            "A664C",
+            "A666T",
+            "C669T",
+            "G675A",
+            "A696C",
+            "C698A",
+            "G732C",
+            "T738C",
+            "A747T",
+            "A750G",
+            "A753T",
+            "G759C",
+            "A762G",
+            "C765T",
+            "C773T",
+            "C785A",
+            "A801G",
+            "A820C",
+            "A824G",
+            "T831C",
+            "C833T",
+            "T846C",
+            "G856A",
+            "G865A",
+            "T867G",
+            "C868G",
+            "C870T",
+            "T873A",
+            "C876T",
+            "A880G",
+            "A882G",
+            "A885G",
+            "C897T",
+            "C918T",
+            "C921T",
+            "T927C",
+            "A943G",
+            "T951A",
+            "A957G",
+            "A974G",
+            "C978T",
+            "A979G",
+            "G987A",
+            "C995T",
+            "T1011C",
+            "G1012A",
+            "C1036T",
+            "A1038G",
+            "A1077T",
+            "A1128T",
+            "A1131G",
+            "C1140A",
+            "G1146A",
+            "G1158A",
+            "G1168A",
+            "T1233C",
+            "C1248A",
+            "C1249T",
+            "A1260G",
+            "A1263G",
+            "T1269C",
+            "A1293G",
+            "C1296T",
+            "G1299A",
+            "C1314T",
+            "C1320A",
+            "A1350G",
+            "T1368C",
+            "T1384C",
+            "G1395A",
+            "G1400A",
+            "C1408T",
+            "T1431A",
+            "T1440G",
+            "C1443T",
+            "G1465A",
+            "T1467C",
+            "A1482G",
+            "A1521C",
+            "A1542G",
+            "A1545G",
+            "G1546A",
+            "A1551T",
+            "C1564T",
+            "T1581C",
+            "C1584T",
+            "T1591C",
+            "T1602C",
+            "G1629T",
+            "A1632G",
+            "C1665T",
+            "T1668C",
+            "T1698C"
+          ],
+          "strain": "NODE_0000013",
+          "yvalue": 52.603515625
+        },
+        {
+          "aa_muts": {
+            "UJ99_s4gp1": [
+              "Q38L",
+              "G47E",
+              "N72H",
+              "R75K",
+              "F110Y",
+              "D146N",
+              "E147T",
+              "S166A",
+              "M181T",
+              "G182R",
+              "V183I",
+              "L200V"
+            ]
+          },
+          "attr": {
+            "clock_length": 0.15232146225828916,
+            "country": "USA",
+            "country_confidence": {
+              "USA": 0.9997315622680241
+            },
+            "country_entropy": 0.002475736063796986,
+            "date": "2008-09-14",
+            "div": 0.1629945515892181,
+            "num_date": 2008.705287276818,
+            "num_date_confidence": [
+              2008.1939600161975,
+              2009.237317426497
+            ],
+            "state": "MEX/MEX",
+            "state_confidence": {
+              "MEX/MEX": 0.5262106781040021,
+              "USA/California": 0.45426409431974524,
+              "USA/Delaware": 0.001200571781321501,
+              "USA/New-York": 0.0012548041635259638
+            },
+            "state_entropy": 0.8330989660974286
+          },
+          "branch_length": 0.15232146,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0011674521409702834,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 0.999988614822316
+                },
+                "country_entropy": 0.0001409848455816043,
+                "date": "2009-01-30",
+                "div": 0.1629945515892181,
+                "num_date": 2009.082738282149,
+                "num_date_confidence": [
+                  2008.8126793766958,
+                  2009.2491444216291
+                ],
+                "state": "USA/California",
+                "state_confidence": {
+                  "MEX/MEX": 0.002225643375556778,
+                  "USA/California": 0.9976728397406083
+                },
+                "state_entropy": 0.017161252580679257
+              },
+              "branch_length": 0.00116745,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "FJ981613",
+                    "clock_length": 0.0005824376642437276,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2009-04-09",
+                    "div": 0.1629967015892181,
+                    "num_date": 2009.2710472279261,
+                    "num_date_confidence": [
+                      2009.2710472279261,
+                      2009.2710472279261
+                    ],
+                    "raw_date": "2009-04-09",
+                    "state": "USA/California",
+                    "state_confidence": {
+                      "USA/California": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 0.00058244,
+                  "clade": 31,
+                  "muts": [],
+                  "strain": "FJ981613",
+                  "yvalue": 39
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "FJ966082",
+                    "clock_length": 0.0005146925059488425,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2009-04-01",
+                    "div": 0.1635828215892181,
+                    "num_date": 2009.2491444216291,
+                    "num_date_confidence": [
+                      2009.2491444216291,
+                      2009.2491444216291
+                    ],
+                    "raw_date": "2009-04-01",
+                    "state": "USA/California",
+                    "state_confidence": {
+                      "USA/California": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 0.00051469,
+                  "clade": 32,
+                  "muts": [
+                    "G640A"
+                  ],
+                  "strain": "FJ966082",
+                  "yvalue": 38
+                }
+              ],
+              "clade": 33,
+              "muts": [
+                "T298C",
+                "G1012A"
+              ],
+              "strain": "NODE_0000020",
+              "yvalue": 38.5
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.0006730909938944402,
+                "country": "USA",
+                "country_confidence": {
+                  "USA": 0.9999999982796532
+                },
+                "country_entropy": 3.643621639662915e-08,
+                "date": "2008-12-03",
+                "div": 0.1647585515892181,
+                "num_date": 2008.9229055100704,
+                "num_date_confidence": [
+                  2008.791122406668,
+                  2009.2399076520085
+                ],
+                "state": "MEX/MEX",
+                "state_confidence": {
+                  "MEX/MEX": 0.9993179268308366
+                },
+                "state_entropy": 0.006060206413466034
+              },
+              "branch_length": 0.00067309,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "GQ338349",
+                    "clock_length": 0.001203820983122661,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2009-04-24",
+                    "div": 0.1659357115892181,
+                    "num_date": 2009.3121149897331,
+                    "num_date_confidence": [
+                      2009.3121149897331,
+                      2009.3121149897331
+                    ],
+                    "raw_date": "2009-04-24",
+                    "state": "USA/Michigan",
+                    "state_confidence": {
+                      "USA/Michigan": 1.0
+                    },
+                    "state_entropy": -1.000088900581841e-12
+                  },
+                  "branch_length": 0.00120382,
+                  "clade": 34,
+                  "muts": [
+                    "T147C",
+                    "G445A"
+                  ],
+                  "strain": "GQ338349",
+                  "yvalue": 37
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0010285953444471238,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 0.999994552240739
+                    },
+                    "country_entropy": 7.147625265265985e-05,
+                    "date": "2009-04-03",
+                    "div": 0.1659355515892181,
+                    "num_date": 2009.255462480258,
+                    "num_date_confidence": [
+                      2008.8722225880779,
+                      2009.304104763742
+                    ],
+                    "state": "USA/Texas",
+                    "state_confidence": {
+                      "MEX/MEX": 0.3496327057729207,
+                      "USA/Houston": 0.27089671648102087,
+                      "USA/Texas": 0.36919748569190575
+                    },
+                    "state_entropy": 1.1670752449033215
+                  },
+                  "branch_length": 0.0010286,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "GQ117091",
+                        "clock_length": 0.00018369378346222431,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2009-04-25",
+                        "div": 0.1665237215892181,
+                        "num_date": 2009.3148528405202,
+                        "num_date_confidence": [
+                          2009.3148528405202,
+                          2009.3148528405202
+                        ],
+                        "raw_date": "2009-04-25",
+                        "state": "USA/Texas",
+                        "state_confidence": {
+                          "USA/Texas": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00018369,
+                      "clade": 35,
+                      "muts": [
+                        "C1296T"
+                      ],
+                      "strain": "GQ117091",
+                      "yvalue": 36
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "CY053087",
+                        "clock_length": 0.00023450265218374206,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 0.9999999999999999
+                        },
+                        "country_entropy": -9.99866855976916e-13,
+                        "date": "2009-05-01",
+                        "div": 0.1659379315892181,
+                        "num_date": 2009.331279945243,
+                        "num_date_confidence": [
+                          2009.331279945243,
+                          2009.331279945243
+                        ],
+                        "raw_date": "2009-05-01",
+                        "state": "USA/Houston",
+                        "state_confidence": {
+                          "USA/Houston": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.0002345,
+                      "clade": 36,
+                      "muts": [],
+                      "strain": "CY053087",
+                      "yvalue": 35
+                    }
+                  ],
+                  "clade": 37,
+                  "muts": [
+                    "G576A",
+                    "G1068A"
+                  ],
+                  "strain": "NODE_0000035",
+                  "yvalue": 35.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.000579897744646049,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 0.999994702635958
+                    },
+                    "country_entropy": 6.965132202018575e-05,
+                    "date": "2009-02-09",
+                    "div": 0.1653475515892181,
+                    "num_date": 2009.1103932699746,
+                    "num_date_confidence": [
+                      2008.8958910170363,
+                      2009.290212183436
+                    ],
+                    "state": "USA/California",
+                    "state_confidence": {
+                      "MEX/MEX": 0.37012578863956763,
+                      "USA/California": 0.3758574164358161,
+                      "USA/South-Dakota": 0.24416104921508797
+                    },
+                    "state_entropy": 1.1552383999147986
+                  },
+                  "branch_length": 0.0005799,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KC781723",
+                        "clock_length": 0.0005561780801817268,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-04-16",
+                        "div": 0.1659360215892181,
+                        "num_date": 2009.290212183436,
+                        "num_date_confidence": [
+                          2009.290212183436,
+                          2009.290212183436
+                        ],
+                        "raw_date": "2009-04-16",
+                        "state": "USA/California",
+                        "state_confidence": {
+                          "USA/California": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00055618,
+                      "clade": 38,
+                      "muts": [
+                        "G366A"
+                      ],
+                      "strain": "KC781723",
+                      "yvalue": 34
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "GQ231990",
+                        "clock_length": 0.0007170728311322594,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-05-05",
+                        "div": 0.1659360015892181,
+                        "num_date": 2009.3422313483916,
+                        "num_date_confidence": [
+                          2009.3422313483916,
+                          2009.3422313483916
+                        ],
+                        "raw_date": "2009-05-05",
+                        "state": "USA/South-Dakota",
+                        "state_confidence": {
+                          "USA/South-Dakota": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00071707,
+                      "clade": 39,
+                      "muts": [
+                        "G1080A"
+                      ],
+                      "strain": "GQ231990",
+                      "yvalue": 33
+                    }
+                  ],
+                  "clade": 40,
+                  "muts": [
+                    "C22A"
+                  ],
+                  "strain": "NODE_0000037",
+                  "yvalue": 33.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00018222943646619555,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 0.9994077096628302
+                    },
+                    "country_entropy": 0.004993728597702778,
+                    "date": "2008-12-24",
+                    "div": 0.1653475515892181,
+                    "num_date": 2008.9818224297292,
+                    "num_date_confidence": [
+                      2008.8565141223353,
+                      2009.2473519127745
+                    ],
+                    "state": "MEX/MEX",
+                    "state_confidence": {
+                      "MEX/MEX": 0.9959169404867556,
+                      "USA/Texas": 0.0027992581954829053
+                    },
+                    "state_entropy": 0.030677554006717123
+                  },
+                  "branch_length": 0.00018223,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.001055464125803915,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 0.9999817161907183
+                        },
+                        "country_entropy": 0.0002177507592784054,
+                        "date": "2009-04-28",
+                        "div": 0.1665255515892181,
+                        "num_date": 2009.3230663928816,
+                        "num_date_confidence": [
+                          2009.1688780667416,
+                          2009.3230663928816
+                        ],
+                        "state": "USA/Delaware",
+                        "state_confidence": {
+                          "MEX/MEX": 0.320077607326263,
+                          "USA/Delaware": 0.349002856117704,
+                          "USA/Maryland": 0.3178985576529311,
+                          "USA/Texas": 0.0014654896718643887
+                        },
+                        "state_entropy": 1.1916654635505186
+                      },
+                      "branch_length": 0.00105546,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ168636",
+                            "clock_length": 0.0,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-28",
+                            "div": 0.1665265515892181,
+                            "num_date": 2009.3230663928816,
+                            "num_date_confidence": [
+                              2009.3230663928816,
+                              2009.3230663928816
+                            ],
+                            "raw_date": "2009-04-28",
+                            "state": "USA/Delaware",
+                            "state_confidence": {
+                              "USA/Delaware": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.0,
+                          "clade": 41,
+                          "muts": [],
+                          "strain": "GQ168636",
+                          "yvalue": 32
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ160565",
+                            "clock_length": 8.468144786680232e-06,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-28",
+                            "div": 0.1665265515892181,
+                            "num_date": 2009.3258042436687,
+                            "num_date_confidence": [
+                              2009.3258042436687,
+                              2009.3258042436687
+                            ],
+                            "raw_date": "2009-04-29",
+                            "state": "USA/Maryland",
+                            "state_confidence": {
+                              "USA/Maryland": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 8.47e-06,
+                          "clade": 42,
+                          "muts": [],
+                          "strain": "GQ160565",
+                          "yvalue": 31
+                        }
+                      ],
+                      "clade": 43,
+                      "muts": [
+                        "G687T",
+                        "A877G"
+                      ],
+                      "strain": "NODE_0000022",
+                      "yvalue": 31.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0009267706633051195,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 0.9999813143274353
+                        },
+                        "country_entropy": 0.0002221304928662548,
+                        "date": "2009-04-12",
+                        "div": 0.1659355515892181,
+                        "num_date": 2009.28145828314,
+                        "num_date_confidence": [
+                          2008.921044194077,
+                          2009.2874743326488
+                        ],
+                        "state": "USA/Texas",
+                        "state_confidence": {
+                          "MEX/MEX": 0.003999683256376053,
+                          "USA/Texas": 0.9959080484623969
+                        },
+                        "state_entropy": 0.02730707040154242
+                      },
+                      "branch_length": 0.00092677,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ168861",
+                            "clock_length": 1.860758026907272e-05,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-14",
+                            "div": 0.1659365515892181,
+                            "num_date": 2009.2874743326488,
+                            "num_date_confidence": [
+                              2009.2874743326488,
+                              2009.2874743326488
+                            ],
+                            "raw_date": "2009-04-15",
+                            "state": "USA/Texas",
+                            "state_confidence": {
+                              "USA/Texas": 0.9999999999999999
+                            },
+                            "state_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 1.861e-05,
+                          "clade": 44,
+                          "muts": [],
+                          "strain": "GQ168861",
+                          "yvalue": 30
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ200221",
+                            "clock_length": 9.482088335134586e-05,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-24",
+                            "div": 0.1659365515892181,
+                            "num_date": 2009.3121149897331,
+                            "num_date_confidence": [
+                              2009.3121149897331,
+                              2009.3121149897331
+                            ],
+                            "raw_date": "2009-04-24",
+                            "state": "USA/Texas",
+                            "state_confidence": {
+                              "USA/Texas": 0.9999999999999999
+                            },
+                            "state_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 9.482e-05,
+                          "clade": 45,
+                          "muts": [],
+                          "strain": "GQ200221",
+                          "yvalue": 29
+                        }
+                      ],
+                      "clade": 46,
+                      "muts": [
+                        "G1563A"
+                      ],
+                      "strain": "NODE_0000024",
+                      "yvalue": 29.5
+                    },
+                    {
+                      "aa_muts": {
+                        "UJ99_s4gp1": [
+                          "V100I"
+                        ]
+                      },
+                      "attr": {
+                        "clock_length": 0.0006053931703874083,
+                        "country": "MEX",
+                        "country_confidence": {
+                          "MEX": 0.99010749058338,
+                          "USA": 0.009892509416620052
+                        },
+                        "country_entropy": 0.055507016611775546,
+                        "date": "2009-03-05",
+                        "div": 0.1665245515892181,
+                        "num_date": 2009.177553160578,
+                        "num_date_confidence": [
+                          2009.0234170361741,
+                          2009.2518822724162
+                        ],
+                        "state": "MEX/MEX",
+                        "state_confidence": {
+                          "MEX/MEX": 0.9999839587317806
+                        },
+                        "state_entropy": 0.0002131046359336729
+                      },
+                      "branch_length": 0.00060539,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ162194",
+                            "clock_length": 0.00022989919095776218,
+                            "country": "MEX",
+                            "country_confidence": {
+                              "MEX": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-02",
+                            "div": 0.1671127715892181,
+                            "num_date": 2009.2518822724162,
+                            "num_date_confidence": [
+                              2009.2518822724162,
+                              2009.2518822724162
+                            ],
+                            "raw_date": "2009-04-02",
+                            "state": "MEX/MEX",
+                            "state_confidence": {
+                              "MEX/MEX": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.0002299,
+                          "clade": 47,
+                          "muts": [
+                            "A716G"
+                          ],
+                          "strain": "GQ162194",
+                          "yvalue": 28
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00023836733574444935,
+                            "country": "MEX",
+                            "country_confidence": {
+                              "MEX": 0.9999007859802479
+                            },
+                            "country_entropy": 0.0010137868707653435,
+                            "date": "2009-04-02",
+                            "div": 0.1665245515892181,
+                            "num_date": 2009.2546201232033,
+                            "num_date_confidence": [
+                              2009.1627430981287,
+                              2009.2546201232033
+                            ],
+                            "state": "MEX/MEX",
+                            "state_confidence": {
+                              "MEX/MEX": 0.9999992374054406
+                            },
+                            "state_entropy": 1.3710650149503533e-05
+                          },
+                          "branch_length": 0.00023837,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ149689",
+                                "clock_length": 0.0,
+                                "country": "MEX",
+                                "country_confidence": {
+                                  "MEX": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-04-02",
+                                "div": 0.1665255515892181,
+                                "num_date": 2009.2546201232033,
+                                "num_date_confidence": [
+                                  2009.2546201232033,
+                                  2009.2546201232033
+                                ],
+                                "raw_date": "2009-04-03",
+                                "state": "MEX/MEX",
+                                "state_confidence": {
+                                  "MEX/MEX": 0.9999999999999999
+                                },
+                                "state_entropy": -9.99866855976916e-13
+                              },
+                              "branch_length": 0.0,
+                              "clade": 48,
+                              "muts": [],
+                              "strain": "GQ149689",
+                              "yvalue": 27
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ223112",
+                                "clock_length": 0.0,
+                                "country": "MEX",
+                                "country_confidence": {
+                                  "MEX": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-04-02",
+                                "div": 0.1665255515892181,
+                                "num_date": 2009.2546201232033,
+                                "num_date_confidence": [
+                                  2009.2546201232033,
+                                  2009.2546201232033
+                                ],
+                                "raw_date": "2009-04-03",
+                                "state": "MEX/MEX",
+                                "state_confidence": {
+                                  "MEX/MEX": 0.9999999999999999
+                                },
+                                "state_entropy": -9.99866855976916e-13
+                              },
+                              "branch_length": 0.0,
+                              "clade": 49,
+                              "muts": [],
+                              "strain": "GQ223112",
+                              "yvalue": 26
+                            }
+                          ],
+                          "clade": 50,
+                          "muts": [],
+                          "strain": "NODE_0000028",
+                          "yvalue": 26.5
+                        }
+                      ],
+                      "clade": 51,
+                      "muts": [
+                        "G1330A",
+                        "G1644A"
+                      ],
+                      "strain": "NODE_0000025",
+                      "yvalue": 27.25
+                    }
+                  ],
+                  "clade": 52,
+                  "muts": [
+                    "G1173A"
+                  ],
+                  "strain": "NODE_0000021",
+                  "yvalue": 29.375
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00019928194923871795,
+                    "country": "USA",
+                    "country_confidence": {
+                      "MEX": 0.02409025571994638,
+                      "USA": 0.9759097442800536
+                    },
+                    "country_entropy": 0.11355676337627874,
+                    "date": "2008-12-26",
+                    "div": 0.1647585515892181,
+                    "num_date": 2008.9873357076303,
+                    "num_date_confidence": [
+                      2008.9064635302539,
+                      2009.2566772892458
+                    ],
+                    "state": "MEX/MEX",
+                    "state_confidence": {
+                      "MEX/MEX": 0.9998955756701307
+                    },
+                    "state_entropy": 0.0011887538636714988
+                  },
+                  "branch_length": 0.00019928,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0003956873822672166,
+                        "country": "MEX",
+                        "country_confidence": {
+                          "MEX": 0.99043376881629,
+                          "USA": 0.009566231183710104
+                        },
+                        "country_entropy": 0.05399867281550492,
+                        "date": "2009-02-11",
+                        "div": 0.1647585515892181,
+                        "num_date": 2009.1152660912342,
+                        "num_date_confidence": [
+                          2008.917394978064,
+                          2009.2847364818617
+                        ],
+                        "state": "MEX/MEX",
+                        "state_confidence": {
+                          "MEX/MEX": 0.9999988673715083
+                        },
+                        "state_entropy": 1.948119486508132e-05
+                      },
+                      "branch_length": 0.00039569,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "CY147787",
+                            "clock_length": 0.0006427242307641759,
+                            "country": "MEX",
+                            "country_confidence": {
+                              "MEX": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-28",
+                            "div": 0.1653465615892181,
+                            "num_date": 2009.3230663928816,
+                            "num_date_confidence": [
+                              2009.3230663928816,
+                              2009.3230663928816
+                            ],
+                            "raw_date": "2009-04-28",
+                            "state": "MEX/MEX",
+                            "state_confidence": {
+                              "MEX/MEX": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00064272,
+                          "clade": 53,
+                          "muts": [
+                            "A955C"
+                          ],
+                          "strain": "CY147787",
+                          "yvalue": 25
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ303340",
+                            "clock_length": 0.0005241702037477661,
+                            "country": "MEX",
+                            "country_confidence": {
+                              "MEX": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-14",
+                            "div": 0.1653464615892181,
+                            "num_date": 2009.2847364818617,
+                            "num_date_confidence": [
+                              2009.2847364818617,
+                              2009.2847364818617
+                            ],
+                            "raw_date": "2009-04-14",
+                            "state": "MEX/MEX",
+                            "state_confidence": {
+                              "MEX/MEX": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00052417,
+                          "clade": 54,
+                          "muts": [
+                            "A719G"
+                          ],
+                          "strain": "GQ303340",
+                          "yvalue": 24
+                        }
+                      ],
+                      "clade": 55,
+                      "muts": [],
+                      "strain": "NODE_0000030",
+                      "yvalue": 24.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00047672793634020993,
+                        "country": "USA",
+                        "country_confidence": {
+                          "MEX": 0.001753839631648568,
+                          "USA": 0.9982461603683513
+                        },
+                        "country_entropy": 0.012882075538850565,
+                        "date": "2009-02-20",
+                        "div": 0.1647585515892181,
+                        "num_date": 2009.1414674553278,
+                        "num_date_confidence": [
+                          2008.951775169428,
+                          2009.2592644801398
+                        ],
+                        "state": "MEX/MEX",
+                        "state_confidence": {
+                          "MEX/MEX": 0.9802225182775389,
+                          "USA/New-York": 0.015787335549829272,
+                          "USA/Ohio": 0.001225641299123152,
+                          "USA/Oklahoma": 0.001186547209714681
+                        },
+                        "state_entropy": 0.1136097639441758
+                      },
+                      "branch_length": 0.00047673,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "CY041146",
+                            "clock_length": 0.0005616836766911826,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-28",
+                            "div": 0.1653467015892181,
+                            "num_date": 2009.3230663928816,
+                            "num_date_confidence": [
+                              2009.3230663928816,
+                              2009.3230663928816
+                            ],
+                            "raw_date": "2009-04-28",
+                            "state": "USA/New-York",
+                            "state_confidence": {
+                              "USA/New-York": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.00056168,
+                          "clade": 56,
+                          "muts": [
+                            "C145A"
+                          ],
+                          "strain": "CY041146",
+                          "yvalue": 23
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00028215365059713893,
+                            "country": "USA",
+                            "country_confidence": {
+                              "MEX": 0.0017710256434609463,
+                              "USA": 0.998228974356539
+                            },
+                            "country_entropy": 0.012991022827284381,
+                            "date": "2009-03-25",
+                            "div": 0.1647585515892181,
+                            "num_date": 2009.2326910484314,
+                            "num_date_confidence": [
+                              2008.977772281472,
+                              2009.2629850788226
+                            ],
+                            "state": "MEX/MEX",
+                            "state_confidence": {
+                              "MEX/MEX": 0.9773452087973772,
+                              "USA/New-York": 0.006457272116828408,
+                              "USA/Ohio": 0.005374027868119475,
+                              "USA/Oklahoma": 0.005235213307718155
+                            },
+                            "state_entropy": 0.14364771178693309
+                          },
+                          "branch_length": 0.00028215,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0002879981708807239,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 0.9999546697634526
+                                },
+                                "country_entropy": 0.0004987012122856571,
+                                "date": "2009-04-28",
+                                "div": 0.1647585515892181,
+                                "num_date": 2009.3258042436687,
+                                "num_date_confidence": [
+                                  2009.161361234258,
+                                  2009.3258042436687
+                                ],
+                                "state": "USA/Ohio",
+                                "state_confidence": {
+                                  "MEX/MEX": 0.31940059033705803,
+                                  "USA/New-York": 0.002578106708571872,
+                                  "USA/Ohio": 0.33570436555235433,
+                                  "USA/Oklahoma": 0.3289983121959862
+                                },
+                                "state_entropy": 1.2083624002527462
+                              },
+                              "branch_length": 0.000288,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "GQ231993",
+                                    "clock_length": 5.080886872151774e-05,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2009-05-05",
+                                    "div": 0.1647585515892181,
+                                    "num_date": 2009.3422313483916,
+                                    "num_date_confidence": [
+                                      2009.3422313483916,
+                                      2009.3422313483916
+                                    ],
+                                    "raw_date": "2009-05-05",
+                                    "state": "USA/Ohio",
+                                    "state_confidence": {
+                                      "USA/Ohio": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 5.081e-05,
+                                  "clade": 57,
+                                  "muts": [],
+                                  "strain": "GQ231993",
+                                  "yvalue": 22
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "GQ200255",
+                                    "clock_length": 0.0,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2009-04-28",
+                                    "div": 0.1647585515892181,
+                                    "num_date": 2009.3258042436687,
+                                    "num_date_confidence": [
+                                      2009.3258042436687,
+                                      2009.3258042436687
+                                    ],
+                                    "raw_date": "2009-04-29",
+                                    "state": "USA/Oklahoma",
+                                    "state_confidence": {
+                                      "USA/Oklahoma": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 58,
+                                  "muts": [],
+                                  "strain": "GQ200255",
+                                  "yvalue": 21
+                                }
+                              ],
+                              "clade": 59,
+                              "muts": [],
+                              "strain": "NODE_0000033",
+                              "yvalue": 21.5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.00010169898556942891,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "MEX": 0.024323286268355997,
+                                  "USA": 0.975676713731644
+                                },
+                                "country_entropy": 0.11441818927021294,
+                                "date": "2009-04-06",
+                                "div": 0.1647585515892181,
+                                "num_date": 2009.2655715263518,
+                                "num_date_confidence": [
+                                  2009.171782879145,
+                                  2009.2655715263518
+                                ],
+                                "state": "MEX/MEX",
+                                "state_confidence": {
+                                  "MEX/MEX": 0.981560685747782,
+                                  "USA/Illinois": 0.012954407959746946,
+                                  "USA/New-York": 0.0020109405246199205,
+                                  "USA/Ohio": 0.0015051188334920939
+                                },
+                                "state_entropy": 0.11171396617212628
+                              },
+                              "branch_length": 0.0001017,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "GQ232028",
+                                    "clock_length": 0.00014395846137716523,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2009-04-24",
+                                    "div": 0.1647607015892181,
+                                    "num_date": 2009.3121149897331,
+                                    "num_date_confidence": [
+                                      2009.3121149897331,
+                                      2009.3121149897331
+                                    ],
+                                    "raw_date": "2009-04-24",
+                                    "state": "USA/Illinois",
+                                    "state_confidence": {
+                                      "USA/Illinois": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.00014396,
+                                  "clade": 60,
+                                  "muts": [],
+                                  "strain": "GQ232028",
+                                  "yvalue": 20
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "GQ149692",
+                                    "clock_length": 0.0,
+                                    "country": "MEX",
+                                    "country_confidence": {
+                                      "MEX": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2009-04-06",
+                                    "div": 0.1647585515892181,
+                                    "num_date": 2009.2655715263518,
+                                    "num_date_confidence": [
+                                      2009.2655715263518,
+                                      2009.2655715263518
+                                    ],
+                                    "raw_date": "2009-04-07",
+                                    "state": "MEX/MEX",
+                                    "state_confidence": {
+                                      "MEX/MEX": 1.0
+                                    },
+                                    "state_entropy": -1.000088900581841e-12
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 61,
+                                  "muts": [],
+                                  "strain": "GQ149692",
+                                  "yvalue": 19
+                                }
+                              ],
+                              "clade": 62,
+                              "muts": [],
+                              "strain": "NODE_0000034",
+                              "yvalue": 19.5
+                            }
+                          ],
+                          "clade": 63,
+                          "muts": [],
+                          "strain": "NODE_0000032",
+                          "yvalue": 20.5
+                        }
+                      ],
+                      "clade": 64,
+                      "muts": [],
+                      "strain": "NODE_0000031",
+                      "yvalue": 21.75
+                    }
+                  ],
+                  "clade": 65,
+                  "muts": [],
+                  "strain": "NODE_0000029",
+                  "yvalue": 23.125
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0006788859512536979,
+                    "country": "USA",
+                    "country_confidence": {
+                      "USA": 0.9999992994236068
+                    },
+                    "country_entropy": 1.0628696120880781e-05,
+                    "date": "2009-02-21",
+                    "div": 0.1653465515892181,
+                    "num_date": 2009.1423973211804,
+                    "num_date_confidence": [
+                      2008.9416413173165,
+                      2009.2782679692723
+                    ],
+                    "state": "MEX/MEX",
+                    "state_confidence": {
+                      "MEX/MEX": 0.9999655006086825
+                    },
+                    "state_entropy": 0.0004445686835811978
+                  },
+                  "branch_length": 0.00067889,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "GQ232007",
+                        "clock_length": 0.0006096164797372225,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-05-03",
+                        "div": 0.1665249615892181,
+                        "num_date": 2009.3394934976043,
+                        "num_date_confidence": [
+                          2009.3394934976043,
+                          2009.3394934976043
+                        ],
+                        "raw_date": "2009-05-04",
+                        "state": "USA/Vermont",
+                        "state_confidence": {
+                          "USA/Vermont": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00060962,
+                      "clade": 66,
+                      "muts": [
+                        "A4G",
+                        "G930T"
+                      ],
+                      "strain": "GQ232007",
+                      "yvalue": 18
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "GQ232003",
+                        "clock_length": 0.0005503394662297253,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-04-27",
+                        "div": 0.1659345615892181,
+                        "num_date": 2009.3203285420946,
+                        "num_date_confidence": [
+                          2009.3203285420946,
+                          2009.3203285420946
+                        ],
+                        "raw_date": "2009-04-27",
+                        "state": "USA/Oregon",
+                        "state_confidence": {
+                          "USA/Oregon": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00055034,
+                      "clade": 67,
+                      "muts": [
+                        "C1584T"
+                      ],
+                      "strain": "GQ232003",
+                      "yvalue": 17
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "GQ323464",
+                        "clock_length": 0.0006096164797372225,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2009-05-03",
+                        "div": 0.1659347215892181,
+                        "num_date": 2009.3394934976043,
+                        "num_date_confidence": [
+                          2009.3394934976043,
+                          2009.3394934976043
+                        ],
+                        "raw_date": "2009-05-04",
+                        "state": "USA/Kentucky",
+                        "state_confidence": {
+                          "USA/Kentucky": 1.0
+                        },
+                        "state_entropy": -1.000088900581841e-12
+                      },
+                      "branch_length": 0.00060962,
+                      "clade": 68,
+                      "muts": [
+                        "C1443T"
+                      ],
+                      "strain": "GQ323464",
+                      "yvalue": 16
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0003122535839999996,
+                        "country": "MEX",
+                        "country_confidence": {
+                          "MEX": 0.9901016361629514,
+                          "USA": 0.0098983638370486
+                        },
+                        "country_entropy": 0.05553398053178184,
+                        "date": "2009-03-29",
+                        "div": 0.1665225515892181,
+                        "num_date": 2009.2433525767003,
+                        "num_date_confidence": [
+                          2008.9379669676064,
+                          2009.2821499877891
+                        ],
+                        "state": "MEX/MEX",
+                        "state_confidence": {
+                          "MEX/MEX": 0.9999991662049764
+                        },
+                        "state_entropy": 1.4891071889562212e-05
+                      },
+                      "branch_length": 0.00031225,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ149623",
+                            "clock_length": 0.0001280000000000031,
+                            "country": "MEX",
+                            "country_confidence": {
+                              "MEX": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-14",
+                            "div": 0.1665235515892181,
+                            "num_date": 2009.2847364818617,
+                            "num_date_confidence": [
+                              2009.2847364818617,
+                              2009.2847364818617
+                            ],
+                            "raw_date": "2009-04-14",
+                            "state": "MEX/MEX",
+                            "state_confidence": {
+                              "MEX/MEX": 1.0
+                            },
+                            "state_entropy": -1.000088900581841e-12
+                          },
+                          "branch_length": 0.000128,
+                          "clade": 69,
+                          "muts": [],
+                          "strain": "GQ149623",
+                          "yvalue": 15
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0001280000000000031,
+                            "country": "MEX",
+                            "country_confidence": {
+                              "MEX": 0.9999007286066353
+                            },
+                            "country_entropy": 0.0010143157317132453,
+                            "date": "2009-04-14",
+                            "div": 0.1665225515892181,
+                            "num_date": 2009.2847364818617,
+                            "num_date_confidence": [
+                              2009.2132500626162,
+                              2009.2847364818617
+                            ],
+                            "state": "MEX/MEX",
+                            "state_confidence": {
+                              "MEX/MEX": 0.9999992947902169
+                            },
+                            "state_entropy": 1.2761552446723613e-05
+                          },
+                          "branch_length": 0.000128,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ149647",
+                                "clock_length": 0.0,
+                                "country": "MEX",
+                                "country_confidence": {
+                                  "MEX": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2009-04-14",
+                                "div": 0.1665225515892181,
+                                "num_date": 2009.2847364818617,
+                                "num_date_confidence": [
+                                  2009.2847364818617,
+                                  2009.2847364818617
+                                ],
+                                "raw_date": "2009-04-14",
+                                "state": "MEX/MEX",
+                                "state_confidence": {
+                                  "MEX/MEX": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.0,
+                              "clade": 70,
+                              "muts": [],
+                              "strain": "GQ149647",
+                              "yvalue": 14
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ162185",
+                                "clock_length": 0.0,
+                                "country": "MEX",
+                                "country_confidence": {
+                                  "MEX": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2009-04-14",
+                                "div": 0.1665225515892181,
+                                "num_date": 2009.2847364818617,
+                                "num_date_confidence": [
+                                  2009.2847364818617,
+                                  2009.2847364818617
+                                ],
+                                "raw_date": "2009-04-14",
+                                "state": "MEX/MEX",
+                                "state_confidence": {
+                                  "MEX/MEX": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.0,
+                              "clade": 71,
+                              "muts": [],
+                              "strain": "GQ162185",
+                              "yvalue": 13
+                            }
+                          ],
+                          "clade": 72,
+                          "muts": [],
+                          "strain": "NODE_0000039",
+                          "yvalue": 13.5
+                        }
+                      ],
+                      "clade": 73,
+                      "muts": [
+                        "C1014T",
+                        "G1080A"
+                      ],
+                      "strain": "NODE_0000040",
+                      "yvalue": 14.25
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0002690535839999994,
+                        "country": "USA",
+                        "country_confidence": {
+                          "MEX": 0.022899757039606807,
+                          "USA": 0.9771002429603931
+                        },
+                        "country_entropy": 0.10911941895825825,
+                        "date": "2009-03-24",
+                        "div": 0.1653465515892181,
+                        "num_date": 2009.2293855087084,
+                        "num_date_confidence": [
+                          2008.9682219653969,
+                          2009.2821499877891
+                        ],
+                        "state": "MEX/MEX",
+                        "state_confidence": {
+                          "MEX/MEX": 0.9966624883691,
+                          "USA/Wisconsin": 0.0031840938413208878
+                        },
+                        "state_entropy": 0.023442352733303834
+                      },
+                      "branch_length": 0.00026905,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0003236266061638557,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 0.9994770681911953
+                            },
+                            "country_entropy": 0.004474098909149871,
+                            "date": "2009-05-02",
+                            "div": 0.1653465515892181,
+                            "num_date": 2009.3340177960301,
+                            "num_date_confidence": [
+                              2009.172160393271,
+                              2009.3340177960301
+                            ],
+                            "state": "USA/Wisconsin",
+                            "state_confidence": {
+                              "MEX/MEX": 0.003254494163901985,
+                              "USA/Wisconsin": 0.9966403235303689
+                            },
+                            "state_entropy": 0.02328073392828143
+                          },
+                          "branch_length": 0.00032363,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY046499",
+                                "clock_length": 1.6936289573367402e-05,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-05-03",
+                                "div": 0.1653465515892181,
+                                "num_date": 2009.3394934976043,
+                                "num_date_confidence": [
+                                  2009.3394934976043,
+                                  2009.3394934976043
+                                ],
+                                "raw_date": "2009-05-04",
+                                "state": "USA/Wisconsin",
+                                "state_confidence": {
+                                  "USA/Wisconsin": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 1.694e-05,
+                              "clade": 74,
+                              "muts": [],
+                              "strain": "CY046499",
+                              "yvalue": 12
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY046235",
+                                "clock_length": 0.0,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-05-02",
+                                "div": 0.1653465515892181,
+                                "num_date": 2009.3340177960301,
+                                "num_date_confidence": [
+                                  2009.3340177960301,
+                                  2009.3340177960301
+                                ],
+                                "raw_date": "2009-05-02",
+                                "state": "USA/Wisconsin",
+                                "state_confidence": {
+                                  "USA/Wisconsin": 1.0
+                                },
+                                "state_entropy": -1.000088900581841e-12
+                              },
+                              "branch_length": 0.0,
+                              "clade": 75,
+                              "muts": [],
+                              "strain": "CY046235",
+                              "yvalue": 11
+                            }
+                          ],
+                          "clade": 76,
+                          "muts": [],
+                          "strain": "NODE_0000042",
+                          "yvalue": 11.5
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0001712000000000033,
+                            "country": "MEX",
+                            "country_confidence": {
+                              "MEX": 0.9904221018697451,
+                              "USA": 0.009577898130254834
+                            },
+                            "country_entropy": 0.05405279914346181,
+                            "date": "2009-04-14",
+                            "div": 0.1653465515892181,
+                            "num_date": 2009.2847364818617,
+                            "num_date_confidence": [
+                              2009.178778959813,
+                              2009.2847364818617
+                            ],
+                            "state": "MEX/MEX",
+                            "state_confidence": {
+                              "MEX/MEX": 0.9999882206217111
+                            },
+                            "state_entropy": 0.00015498417282021825
+                          },
+                          "branch_length": 0.0001712,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ149671",
+                                "clock_length": 0.0,
+                                "country": "MEX",
+                                "country_confidence": {
+                                  "MEX": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2009-04-14",
+                                "div": 0.1653465515892181,
+                                "num_date": 2009.2847364818617,
+                                "num_date_confidence": [
+                                  2009.2847364818617,
+                                  2009.2847364818617
+                                ],
+                                "raw_date": "2009-04-14",
+                                "state": "MEX/MEX",
+                                "state_confidence": {
+                                  "MEX/MEX": 0.9999999999999999
+                                },
+                                "state_entropy": -9.99866855976916e-13
+                              },
+                              "branch_length": 0.0,
+                              "clade": 77,
+                              "muts": [],
+                              "strain": "GQ149671",
+                              "yvalue": 10
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "GQ149674",
+                                "clock_length": 0.0,
+                                "country": "MEX",
+                                "country_confidence": {
+                                  "MEX": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2009-04-14",
+                                "div": 0.1653487015892181,
+                                "num_date": 2009.2847364818617,
+                                "num_date_confidence": [
+                                  2009.2847364818617,
+                                  2009.2847364818617
+                                ],
+                                "raw_date": "2009-04-14",
+                                "state": "MEX/MEX",
+                                "state_confidence": {
+                                  "MEX/MEX": 0.9999999999999999
+                                },
+                                "state_entropy": -9.99866855976916e-13
+                              },
+                              "branch_length": 0.0,
+                              "clade": 78,
+                              "muts": [],
+                              "strain": "GQ149674",
+                              "yvalue": 9
+                            }
+                          ],
+                          "clade": 79,
+                          "muts": [],
+                          "strain": "NODE_0000043",
+                          "yvalue": 9.5
+                        }
+                      ],
+                      "clade": 80,
+                      "muts": [],
+                      "strain": "NODE_0000041",
+                      "yvalue": 10.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0002652281923344185,
+                        "country": "USA",
+                        "country_confidence": {
+                          "USA": 0.9999998724088454
+                        },
+                        "country_entropy": 2.1530266122912903e-06,
+                        "date": "2009-03-24",
+                        "div": 0.1659345515892181,
+                        "num_date": 2009.2281487146,
+                        "num_date_confidence": [
+                          2009.0135854089065,
+                          2009.3019961750435
+                        ],
+                        "state": "USA/New-York",
+                        "state_confidence": {
+                          "USA/New-York": 0.999979049373202
+                        },
+                        "state_entropy": 0.0002485746801355019
+                      },
+                      "branch_length": 0.00026523,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "CY041122",
+                            "clock_length": 0.00026817498432123166,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-25",
+                            "div": 0.1659355515892181,
+                            "num_date": 2009.3148528405202,
+                            "num_date_confidence": [
+                              2009.3148528405202,
+                              2009.3148528405202
+                            ],
+                            "raw_date": "2009-04-25",
+                            "state": "USA/New-York",
+                            "state_confidence": {
+                              "USA/New-York": 0.9999999999999999
+                            },
+                            "state_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 0.00026817,
+                          "clade": 81,
+                          "muts": [],
+                          "strain": "CY041122",
+                          "yvalue": 8
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "GQ457497",
+                            "clock_length": 0.00026817498432123166,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-04-25",
+                            "div": 0.1659355515892181,
+                            "num_date": 2009.3148528405202,
+                            "num_date_confidence": [
+                              2009.3148528405202,
+                              2009.3148528405202
+                            ],
+                            "raw_date": "2009-04-25",
+                            "state": "USA/New-York",
+                            "state_confidence": {
+                              "USA/New-York": 0.9999999999999999
+                            },
+                            "state_entropy": -9.99866855976916e-13
+                          },
+                          "branch_length": 0.00026817,
+                          "clade": 82,
+                          "muts": [],
+                          "strain": "GQ457497",
+                          "yvalue": 7
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 8.041050637520863e-05,
+                            "country": "USA",
+                            "country_confidence": {
+                              "USA": 0.9999945743116523
+                            },
+                            "country_entropy": 7.120870177688452e-05,
+                            "date": "2009-04-02",
+                            "div": 0.1659345515892181,
+                            "num_date": 2009.254146376864,
+                            "num_date_confidence": [
+                              2009.0264970940623,
+                              2009.3045826478947
+                            ],
+                            "state": "USA/New-York",
+                            "state_confidence": {
+                              "USA/New-York": 0.9999994341774356
+                            },
+                            "state_entropy": 1.0172849764282923e-05
+                          },
+                          "branch_length": 8.041e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "CY040854",
+                                "clock_length": 0.0002216370570934656,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2009-04-28",
+                                "div": 0.1659345515892181,
+                                "num_date": 2009.3258042436687,
+                                "num_date_confidence": [
+                                  2009.3258042436687,
+                                  2009.3258042436687
+                                ],
+                                "raw_date": "2009-04-29",
+                                "state": "USA/New-York",
+                                "state_confidence": {
+                                  "USA/New-York": 0.9999999999999999
+                                },
+                                "state_entropy": -9.99866855976916e-13
+                              },
+                              "branch_length": 0.00022164,
+                              "clade": 83,
+                              "muts": [],
+                              "strain": "CY040854",
+                              "yvalue": 6
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 4.4000325124221584e-05,
+                                "country": "USA",
+                                "country_confidence": {
+                                  "USA": 0.9999944517833825
+                                },
+                                "country_entropy": 7.269290543658572e-05,
+                                "date": "2009-04-08",
+                                "div": 0.1659345515892181,
+                                "num_date": 2009.2683721993797,
+                                "num_date_confidence": [
+                                  2009.0325455201341,
+                                  2009.307169123332
+                                ],
+                                "state": "USA/New-York",
+                                "state_confidence": {
+                                  "USA/New-York": 0.9999868203322767
+                                },
+                                "state_entropy": 0.00016764565087048905
+                              },
+                              "branch_length": 4.4e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "CY041726",
+                                    "clock_length": 0.000177636731969244,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2009-04-28",
+                                    "div": 0.1659345515892181,
+                                    "num_date": 2009.3258042436687,
+                                    "num_date_confidence": [
+                                      2009.3258042436687,
+                                      2009.3258042436687
+                                    ],
+                                    "raw_date": "2009-04-29",
+                                    "state": "USA/New-York",
+                                    "state_confidence": {
+                                      "USA/New-York": 0.9999999999999999
+                                    },
+                                    "state_entropy": -9.99866855976916e-13
+                                  },
+                                  "branch_length": 0.00017764,
+                                  "clade": 84,
+                                  "muts": [],
+                                  "strain": "CY041726",
+                                  "yvalue": 5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 6.376447039784655e-05,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 0.9999944490166972
+                                    },
+                                    "country_entropy": 7.272638725156764e-05,
+                                    "date": "2009-04-15",
+                                    "div": 0.1659345515892181,
+                                    "num_date": 2009.2889880024704,
+                                    "num_date_confidence": [
+                                      2009.0332071574571,
+                                      2009.3097555849288
+                                    ],
+                                    "state": "USA/New-York",
+                                    "state_confidence": {
+                                      "USA/Montana": 0.0034928319851749924,
+                                      "USA/New-York": 0.996412559451332
+                                    },
+                                    "state_entropy": 0.02450289938165201
+                                  },
+                                  "branch_length": 6.376e-05,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "GQ457511",
+                                        "clock_length": 0.0001646811302929152,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2009-05-05",
+                                        "div": 0.1659345515892181,
+                                        "num_date": 2009.3422313483916,
+                                        "num_date_confidence": [
+                                          2009.3422313483916,
+                                          2009.3422313483916
+                                        ],
+                                        "raw_date": "2009-05-05",
+                                        "state": "USA/Montana",
+                                        "state_confidence": {
+                                          "USA/Montana": 1.0
+                                        },
+                                        "state_entropy": -1.000088900581841e-12
+                                      },
+                                      "branch_length": 0.00016468,
+                                      "clade": 85,
+                                      "muts": [],
+                                      "strain": "GQ457511",
+                                      "yvalue": 4
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 2.7999792509836308e-05,
+                                        "country": "USA",
+                                        "country_confidence": {
+                                          "USA": 0.9999944518515901
+                                        },
+                                        "country_entropy": 7.269207998729542e-05,
+                                        "date": "2009-04-18",
+                                        "div": 0.1659345515892181,
+                                        "num_date": 2009.2980406646404,
+                                        "num_date_confidence": [
+                                          2009.0348707641456,
+                                          2009.3122663519232
+                                        ],
+                                        "state": "USA/New-York",
+                                        "state_confidence": {
+                                          "USA/New-York": 0.999986821662475
+                                        },
+                                        "state_entropy": 0.00016762656306424745
+                                      },
+                                      "branch_length": 2.8e-05,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "CY047326",
+                                            "clock_length": 7.740432427488092e-05,
+                                            "country": "USA",
+                                            "country_confidence": {
+                                              "USA": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2009-04-28",
+                                            "div": 0.1659345515892181,
+                                            "num_date": 2009.3230663928816,
+                                            "num_date_confidence": [
+                                              2009.3230663928816,
+                                              2009.3230663928816
+                                            ],
+                                            "raw_date": "2009-04-28",
+                                            "state": "USA/New-York",
+                                            "state_confidence": {
+                                              "USA/New-York": 1.0
+                                            },
+                                            "state_entropy": -1.000088900581841e-12
+                                          },
+                                          "branch_length": 7.74e-05,
+                                          "clade": 86,
+                                          "muts": [],
+                                          "strain": "CY047326",
+                                          "yvalue": 3
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 5.199988991411858e-05,
+                                            "country": "USA",
+                                            "country_confidence": {
+                                              "USA": 0.9999945772624694
+                                            },
+                                            "country_entropy": 7.117292420232838e-05,
+                                            "date": "2009-04-25",
+                                            "div": 0.1659345515892181,
+                                            "num_date": 2009.3148528405202,
+                                            "num_date_confidence": [
+                                              2009.2232240985013,
+                                              2009.3148528405202
+                                            ],
+                                            "state": "USA/New-York",
+                                            "state_confidence": {
+                                              "USA/New-York": 0.9999995309496706
+                                            },
+                                            "state_entropy": 8.633774013928583e-06
+                                          },
+                                          "branch_length": 5.2e-05,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "FJ969509",
+                                                "clock_length": 0.0,
+                                                "country": "USA",
+                                                "country_confidence": {
+                                                  "USA": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2009-04-25",
+                                                "div": 0.1659345515892181,
+                                                "num_date": 2009.3148528405202,
+                                                "num_date_confidence": [
+                                                  2009.3148528405202,
+                                                  2009.3148528405202
+                                                ],
+                                                "raw_date": "2009-04-25",
+                                                "state": "USA/New-York",
+                                                "state_confidence": {
+                                                  "USA/New-York": 1.0
+                                                },
+                                                "state_entropy": -1.000088900581841e-12
+                                              },
+                                              "branch_length": 0.0,
+                                              "clade": 87,
+                                              "muts": [],
+                                              "strain": "FJ969509",
+                                              "yvalue": 2
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "CY040838",
+                                                "clock_length": 1.693628957407517e-05,
+                                                "country": "USA",
+                                                "country_confidence": {
+                                                  "USA": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2009-04-27",
+                                                "div": 0.1659355515892181,
+                                                "num_date": 2009.3203285420946,
+                                                "num_date_confidence": [
+                                                  2009.3203285420946,
+                                                  2009.3203285420946
+                                                ],
+                                                "raw_date": "2009-04-27",
+                                                "state": "USA/New-York",
+                                                "state_confidence": {
+                                                  "USA/New-York": 1.0
+                                                },
+                                                "state_entropy": -1.000088900581841e-12
+                                              },
+                                              "branch_length": 1.694e-05,
+                                              "clade": 88,
+                                              "muts": [],
+                                              "strain": "CY040838",
+                                              "yvalue": 1
+                                            }
+                                          ],
+                                          "clade": 89,
+                                          "muts": [],
+                                          "strain": "NODE_0000050",
+                                          "yvalue": 1.5
+                                        }
+                                      ],
+                                      "clade": 90,
+                                      "muts": [],
+                                      "strain": "NODE_0000049",
+                                      "yvalue": 2.25
+                                    }
+                                  ],
+                                  "clade": 91,
+                                  "muts": [],
+                                  "strain": "NODE_0000047",
+                                  "yvalue": 3.125
+                                }
+                              ],
+                              "clade": 92,
+                              "muts": [],
+                              "strain": "NODE_0000046",
+                              "yvalue": 4.0625
+                            }
+                          ],
+                          "clade": 93,
+                          "muts": [],
+                          "strain": "NODE_0000045",
+                          "yvalue": 5.03125
+                        }
+                      ],
+                      "clade": 94,
+                      "muts": [
+                        "T658A"
+                      ],
+                      "strain": "NODE_0000048",
+                      "yvalue": 6.515625
+                    }
+                  ],
+                  "clade": 95,
+                  "muts": [
+                    "C1408T"
+                  ],
+                  "strain": "NODE_0000038",
+                  "yvalue": 12.2578125
+                }
+              ],
+              "clade": 96,
+              "muts": [
+                "A891G"
+              ],
+              "strain": "NODE_0000019",
+              "yvalue": 24.62890625
+            }
+          ],
+          "clade": 97,
+          "muts": [
+            "A6G",
+            "A11T",
+            "C16G",
+            "T25C",
+            "G29A",
+            "A37G",
+            "G40A",
+            "T42C",
+            "A43G",
+            "A58T",
+            "C69T",
+            "C72T",
+            "A78G",
+            "C84T",
+            "T99A",
+            "G123A",
+            "G129A",
+            "A147T",
+            "T150A",
+            "G158A",
+            "T159G",
+            "T165C",
+            "A185G",
+            "A190G",
+            "A201G",
+            "A204T",
+            "G220A",
+            "A228C",
+            "C243T",
+            "T257C",
+            "A261C",
+            "C262T",
+            "T263C",
+            "C267A",
+            "A272G",
+            "A291G",
+            "C300T",
+            "A302G",
+            "G309C",
+            "A318G",
+            "G357A",
+            "T369C",
+            "A375G",
+            "T378A",
+            "A396G",
+            "G409A",
+            "C414T",
+            "C426T",
+            "A433T",
+            "A435G",
+            "C437A",
+            "A450G",
+            "C459T",
+            "C462T",
+            "A466G",
+            "G471A",
+            "G476A",
+            "C477A",
+            "T480C",
+            "T483C",
+            "G488A",
+            "G495A",
+            "C496A",
+            "A505G",
+            "C506T",
+            "A507T",
+            "G510A",
+            "G513A",
+            "A531G",
+            "C548T",
+            "A549T",
+            "C552T",
+            "A553G",
+            "T573C",
+            "T585C",
+            "G586A",
+            "C598T",
+            "C603T",
+            "T605G",
+            "C606T",
+            "G608C",
+            "C633T",
+            "C648T",
+            "C650T",
+            "A654G",
+            "A665G",
+            "G674A",
+            "G677A",
+            "A678G",
+            "C683A",
+            "C684G",
+            "A687G",
+            "C698T",
+            "A714G",
+            "G720A",
+            "A726G",
+            "C751G",
+            "A756G",
+            "C767A",
+            "T777C",
+            "G780A",
+            "A796G",
+            "A798G",
+            "C800T",
+            "A804G",
+            "G807A",
+            "T813A",
+            "A823G",
+            "T825A",
+            "G829A",
+            "G830A",
+            "T832G",
+            "A840T",
+            "A843T",
+            "C851T",
+            "C852T",
+            "G859A",
+            "T867C",
+            "G877A",
+            "A884C",
+            "A885T",
+            "C898A",
+            "A903T",
+            "G914C",
+            "T924A",
+            "G934A",
+            "C939T",
+            "A942G",
+            "G955A",
+            "G966A",
+            "C972A",
+            "G975A",
+            "A991C",
+            "T996C",
+            "C1003T",
+            "A1005G",
+            "A1017G",
+            "C1020T",
+            "C1029T",
+            "T1035C",
+            "A1044G",
+            "A1080G",
+            "T1092A",
+            "T1098C",
+            "G1113A",
+            "A1122G",
+            "A1125G",
+            "T1137A",
+            "T1143C",
+            "A1145T",
+            "A1149G",
+            "G1172A",
+            "A1179T",
+            "G1185A",
+            "G1188A",
+            "A1197T",
+            "G1203A",
+            "A1206G",
+            "C1212T",
+            "T1215A",
+            "A1218G",
+            "G1230A",
+            "A1239G",
+            "A1246C",
+            "G1256A",
+            "A1266G",
+            "A1293T",
+            "A1311T",
+            "C1336T",
+            "T1361A",
+            "T1365C",
+            "C1371A",
+            "T1383C",
+            "G1386A",
+            "G1392A",
+            "G1413A",
+            "T1416C",
+            "A1425G",
+            "T1440C",
+            "C1452T",
+            "T1455C",
+            "G1461A",
+            "T1464C",
+            "G1468A",
+            "T1470C",
+            "G1471A",
+            "A1472C",
+            "A1473G",
+            "G1488C",
+            "A1497G",
+            "T1509C",
+            "T1518C",
+            "A1524G",
+            "T1528G",
+            "G1533A",
+            "G1536A",
+            "A1557G",
+            "G1560A",
+            "A1563G",
+            "T1574C",
+            "G1575A",
+            "G1576A",
+            "A1578G",
+            "G1579A",
+            "A1608T",
+            "C1620A",
+            "C1621T",
+            "T1626A",
+            "T1630G",
+            "C1653T",
+            "T1678C",
+            "G1680A",
+            "C1695T"
+          ],
+          "strain": "NODE_0000016",
+          "yvalue": 31.564453125
+        }
+      ],
+      "clade": 98,
+      "muts": [],
+      "strain": "NODE_0000015",
+      "yvalue": 42.083984375
+    }
+  ],
+  "clade": 99,
+  "muts": [],
+  "strain": "NODE_0000001",
+  "yvalue": 49.0419921875
+}
